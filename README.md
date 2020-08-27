@@ -6,8 +6,6 @@
 ![MArchimedes](https://raw.githubusercontent.com/mfamador/mfamador/master/assets/marchimedes_small.png "MArchimedes")
 
 
-<br/>
-
 [mfamador.github.io](https://mfamador.github.io)
 
 <!--
