@@ -8,7 +8,7 @@
 
 <br/>
 
-[https://mfamador.github.io](https://mfamador.github.io)
+[mfamador.github.io](https://mfamador.github.io)
 
 <!--
 
