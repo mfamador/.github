@@ -4,6 +4,6 @@
 *MArchimedes*
 
 <br/>
-![MArchimedes](https://raw.githubusercontent.com/mfamador/mfamador/master/assets/marchimedes_small.pngg)
+![MArchimedes](https://raw.githubusercontent.com/mfamador/mfamador/master/assets/marchimedes_small.png)
 
 [:octocat: https://mfamador.github.io](https://mfamador.github.io)
